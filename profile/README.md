@@ -15,7 +15,7 @@
 ### 2️⃣ [🧑🏻‍💻 React 페어프로그래밍](https://www.notion.so/c6116880f2ce4483a04438f73b632720?v=4c79f5327de146a6b0bec2db18e4a850)
 - React 숙달을 위한 페어프로그래밍
 
-### 3️⃣ [🥒 오이마켓](https://www.notion.so/7b96f6e5836a43ad91ce9c17847fefdc?v=66df2928fdc8439eafb5a971cfa1c764)
+### 3️⃣ [🥒 오이마켓](https://www.notion.so/3ac920f7fa864328a20ba394ee555132)
 - 야놀자 테크스쿨 - 백엔드 10조와 함께하는 당근마켓 클론 프로젝트
 ---
 
